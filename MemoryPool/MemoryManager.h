@@ -114,7 +114,6 @@ public:
 		return returnBuffer;
 	}
 
-	//π›≥≥ πÆ¡¶¿÷¿Ω
 	//π›≥≥
 	void DeleteMemory(T** DeletePointer)
 	{
